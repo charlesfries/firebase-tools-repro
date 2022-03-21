@@ -1,0 +1,19 @@
+{
+  "name": "users/o4uJYOUrOj7RGXJ6kOlEFVfPm07O/photo",
+  "bucket": "my-supercool-project-xyz.appspot.com",
+  "contentType": "image/png",
+  "metageneration": 1,
+  "generation": 1633238056964,
+  "storageClass": "STANDARD",
+  "etag": "someETag",
+  "contentDisposition": "inline",
+  "contentEncoding": "identity",
+  "downloadTokens": [
+    "17f134ec-bd25-4c89-b3ba-71d4a8059548"
+  ],
+  "timeCreated": "2021-10-03T05:14:16.963Z",
+  "updated": "2021-10-03T05:14:16.963Z",
+  "size": 5276,
+  "md5Hash": "VZ+u75iGwZCWb6k9dfpTMw==",
+  "crc32c": "698752187"
+}

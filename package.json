@@ -1,0 +1,15 @@
+{
+  "name": "firebase-tools-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "firebase emulators:exec --import=./emulator-data --ui \"ping -t google.com\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-tools": "^10.4.0"
+  }
+}

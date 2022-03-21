@@ -1,0 +1,10 @@
+{
+  "buckets": [
+    {
+      "id": "default-bucket"
+    },
+    {
+      "id": "my-supercool-project-xyz.appspot.com"
+    }
+  ]
+}
